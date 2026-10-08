@@ -2,15 +2,15 @@
 Job application documents include:
 - Personal business pictures
   - [portrait photo](Tomas_Vykoukal_DigitalExchange202209_F_L.jpg)
-  - lecture photo
-  - team player (yellow T-shirts, third from the bottom)
+  - [lecture photo](Tomas_Vykoukal_DigitalExchange201905_F_L.jpg)
+  - [team player](Tomas_Vykoukal_DigitalExchange201905_F_L.jpg) (yellow T-shirts, third from the bottom)
 - Professional Curriculum Vitae
-  - Résumé for English-speaking regions
-  - CV for German-speaking regions
+  - Résumé (in English)
+  - Lebenslauf (in German)
 - Latest Employment Reference Document
-  - Employment Reference (in English)
-  - Arbeitszeugnis (in German)
-- Applicant Profile (Bewerberprofil - in German only)
+  - [Employment Reference](Vykoukal, Tomas_Interim_Employment_Reference_30.06.2026.pdf) (in English)
+  - [Arbeitszeugnis](Vykoukal, Tomas_Zwischenzeugnis_30.06.2026.pdf) (in German)
+- Applicant Profile ([Bewerberprofil](Tomas_Vykoukal_Bewerberprofil_202607.pdf) - in German only)
 - Papers
-  - Conference Paper Digital Exchange Bergisches Rheinland 2019, Title: Wir bauen eine Stadt: Was hat das mit der Neuaufstellung der Polizeilichen Kriminal-Statistik zu tun? (in German only)
-  - BORS Case Study - book excerpt (in Czech only)
+  - Conference Paper Digital Exchange Bergisches Rheinland 2019, Title: [Wir bauen eine Stadt: Was hat das mit der Neuaufstellung der Polizeilichen Kriminal-Statistik zu tun?](DEBRL2019-Vortrag_TVY_TMoritz_20190525.pdf) (in German only)
+  - [BORS Case Study](Case%20Study%20BORS_200611.pdf) - book excerpt (in Czech only)
