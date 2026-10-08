@@ -4,7 +4,7 @@ Job application documents include:
   - [portrait photo](Tomas_Vykoukal_DigitalExchange202209_F_L.jpg)
   - [lecture photo](Tomas_Vykoukal_DigitalExchange201905_F_L.jpg)
   - [team player](oc-techtogether-202509_L.jpg) (yellow T-shirts, third from the bottom)
-- Professional Curriculum Vitae
+- Generic Professional CV
   - Résumé (in English)
   - Lebenslauf (in German)
 - Most Recent Employment Reference
