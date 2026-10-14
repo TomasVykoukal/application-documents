@@ -17,7 +17,7 @@ Job application documents include:
     - [BORS Case Study](Case%20Study%20BORS_200611.pdf) - book excerpt 2006 (in Czech)
     - [ARAMARK Case Study](http://cvis.cz/hlavni.php?stranka=novinky/clanek.php&id=363) - IS Research Centre 2006 (in Czech)
   - Professional Papers
-    - [Implementing a MIS-BI Solution: Painlessly, on your own, under Control](SiS_2006_prispevek%20KONZULTA_20060306_final.pdf) In SiS 2006 international conference; Tomas Bata University, Zlín 2006, CZ (in Czech, English Abstract)
-    - OLAP technology in corporate management ([DOC Paper](Konf%20FaME%20UTB_Prispevek%20KONZULTA_20050426_final.doc.pdf) | [PPT Presentation](Konf%20FaME%20UTB_Prispevek%20KONZULTA_20050426_final.ppt.pdf)) In International conference Finance and accounting in science, tuition and practice; Tomas Bata University, Zlín 2005, CZ (in Czech, English Abstract)
+    - [Implementing a MIS-BI Solution: Painlessly, on Your Own, Under Control](SiS_2006_prispevek%20KONZULTA_20060306_final.pdf) In SiS 2006 international conference; Tomas Bata University, Zlín 2006, CZ (in Czech, English Abstract)
+    - OLAP Technology in Corporate Management ([DOC Paper](Konf%20FaME%20UTB_Prispevek%20KONZULTA_20050426_final.doc.pdf) | [PPT Presentation](Konf%20FaME%20UTB_Prispevek%20KONZULTA_20050426_final.ppt.pdf)) In International conference Finance and Accounting in Research, Teaching, and Practice; Tomas Bata University, Zlín 2005, CZ (in Czech, English Abstract)
   
   
