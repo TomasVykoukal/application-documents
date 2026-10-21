@@ -38,9 +38,9 @@
 
 ---
 **Analyst, DWH Specialist, DB Developer** — LZPD NRW (Police North Rhine-Westphalia) | Duisburg, Germany | *2016–2021*
-- Architected and implemented a next-generation solution for sourcing, computing, storing, and reporting the official German police criminal statistics, **encompassing up to 140,000 individual report sheets**, **boosting reporting capacity by 15 %** (39 to 45 official reports) and **reducing generation time by 85 %** (7 days to 1 day).
-- Implemented complex statistical computations for edge cases (age limits, offence gravity etc.)
-- Designed and implemented advanced DWH techniques (multi-tier architecture, bi-temporal data logic, manifold historisation SCD2, data materialisation and versioning, data-driven dynamic PL/SQL code generation) and best practices in programming, **expanding reporting capabilities from strictly pre-defined to near ad-hoc**.
+- Architected and implemented a next-generation framework for sourcing, computing, storing, and reporting the statutory German police criminal statistics, **encompassing up to 140,000 individual report sheets**, **boosting reporting capacity by 15 %** (39 to 45 reports) and **reducing generation time by 85 %** (7 days to 1 day).
+- Implemented **complex statistical computations for corner cases** such as age limits and offence severity classifications.
+- Designed and implemented advanced DWH techniques (multi-tier architecture, bi-temporal data logic, manifold historisation SCD2, data materialisation and versioning, data-driven dynamic PL/SQL code generation) and best practices in programming, **shifting the reporting capabilities from fixed outputs to near ad-hoc**.
 - Designed and implemented structures and workflows incl. script-based CI/CD and staff training, **delivering a streamlined self-service solution**.
 
 ---
@@ -49,7 +49,7 @@
 
 ---
 **BI/DWH Specialist, Trainer** — Kabel Deutschland Vertrieb und Service GmbH | Berlin, Germany | *2015*
-- Migrated monitoring reports from Oracle Information Publisher 11g to Oracle BI Publisher 12c and designed new ones in the target environment, giving the customer **deeper insight, improved troubleshooting, and a stronger ROI**.
+- Migrated existing monitoring reports from Oracle Information Publisher 11g to Oracle BI Publisher 12c and designed additional new ones, giving the customer **deeper insight, improved troubleshooting, and a stronger ROI**.
 - Designed and led Oracle BI Publisher workshops for the department staff.
 
 ---
@@ -63,9 +63,9 @@
 
 ---
 **BI Consultant** — BORS Břeclav | Břeclav, Czech Republic | *2005–2010*
-- Partnered closely with C-suite and Controlling to architect a BI enterprise reporting solution, **cutting staffing costs for enterprise reporting by 60 %** (down from 5 to 2 days).
-- Architected and deployed a self-service BI enterprise solution consolidating accounting and operational data across all cost centres, **enabling the customer to granularise the analysis from 6 divisions to 20 cost centres** and **refine the profitability analysis "from Euro to Euro cent"**.
-- Designed both the accounting and non-accounting parts of the system, with the chart of accounts as the core structure hierarchically aggregating into modular standard reporting, Czech GAAP reporting, intra-company reporting, financial analysis indicators, and bankruptcy models.
+- Partnered closely with C-suite and Controlling to architect a BI enterprise reporting solution, **reducing enterprise reporting turnaround by 60 %** (from 5 to 2 days).
+- Architected and deployed a self-service BI enterprise solution consolidating accounting and operational data across the company, **enabling the customer to granularise the analysis from 6 divisions to 20 cost centres** and **refine the profitability analysis "from Euro to Euro cent"**.
+- Designed accounting and non-accounting system components, with the chart of accounts as the core structure hierarchically aggregating into modular standard reporting, Czech GAAP reporting, intra-company reporting, financial analysis indicators, and bankruptcy models.
 - Implemented a multi-step planning mechanism with manual data entry into the same data structure, incl. seamless comparison with external entities (competitors).
   
 ---
@@ -81,7 +81,7 @@ Analytical, Logical & Structured • Precise, Calm & Goal-Oriented • Exception
 
 
 ## EDUCATION & CERTIFICATIONS
-**Master of Science (M.Sc.) in Business Informatics** — Mendel University Brno, Czech Republic  
+**Master of Science in Business Informatics** — Mendel University Brno, Czech Republic  
 **Visiting European** — Faculties of Commerce and Computer Science, University College Cork, Ireland  
 **Professional Credentials**: iSAQB Certified Professional for Software Architecture – Foundation Level • Oracle 11g Database Data Warehouse Certified Implementation Specialist • Trainer for Oracle Database SQL and PL/SQL  
 **Languages**: Czech & Slovak: native • English, German: fluent • Polish, Ukrainian, Russian: basic • French: basic (currently improving)
